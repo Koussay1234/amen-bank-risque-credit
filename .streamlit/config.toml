@@ -1,0 +1,17 @@
+[theme]
+primaryColor = "#006B3C"
+backgroundColor = "#F2F5F0"
+secondaryBackgroundColor = "#E8F5EE"
+textColor = "#1A1A1A"
+```
+- Clique **"Commit changes"**
+
+---
+
+Ton repo doit avoir **5 fichiers** au final :
+```
+✅ README.md
+✅ requirements.txt
+⬜ amen_bank_app.py
+⬜ german_credit_data.csv
+⬜ .streamlit/config.toml
