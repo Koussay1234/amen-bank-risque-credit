@@ -149,10 +149,10 @@ USERS = {
         "role": "Administrateur",
         "name": "Koussay Hassana",
     },
-    "analyste": {
-        "hash": _hash("credit123"),
+    "bechir": {
+        "hash": _hash("bechir2001"),
         "role": "Analyste Crédit",
-        "name": "Koussay Hassana",
+        "name": "Bechir Ghoudi",
     },
     "directeur": {
         "hash": _hash("dir2024"),
